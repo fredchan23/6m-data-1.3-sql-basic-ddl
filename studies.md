@@ -1,1 +1,1 @@
-content moved to pre-study.md
+Content moved to pre-study.md
