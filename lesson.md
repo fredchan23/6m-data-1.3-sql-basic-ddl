@@ -2,8 +2,6 @@
 
 **Duration:** 3 Hours
 
-**Target Audience:** Adult learners with no prior SQL knowledge
-
 **Tools:** [DbGate](https://dbgate.org/), DuckDB
 
 ## **Section 1: Fundamentals of Database Structure & Connections (1 Hour)**
@@ -14,10 +12,18 @@
   * What is an RDBMS? Understanding the relationship between databases, schemas, and tables.  
   * Introduction to DuckDB: Why we use an in-process engine for data science.  
   * Introduction to DbGate: A cross-platform database manager.  
-* **Demo & Hands-on Workshop (30 min):**  
-  1. **Connecting to the Database:**  
-     * Open **DbGate**.  
-     * Create a new connection to the DuckDB file provided: db/unit-1-3.db.
+
+* **Demo & Hands-on Workshop (30 min):**
+   
+1. **Connecting to the Database:**
+  
+* You can connect to any database using an SQL client or IDE like DbGate, which supports a broad range of popular SQL and NoSQL databases, including MySQL, PostgreSQL, SQL Server, MongoDB, SQLite, Oracle, Redis, CockroachDB, MariaDB, Amazon Redshift, ClickHouse, Cassandra, DuckDB, Firebird, and Firestore, with some premium features for cloud databases like Azure. It acts as a universal manager, allowing you to connect to and work with multiple database types from a single application.
+
+  * For this lesson, we'll use DuckDB, a lightweight, in-process SQL database engine.
+
+  * Open **DbGate**.  
+* Create a new connection to the DuckDB file provided in this repo.
+     
 ```
    db/unit-1-3.db
 ```
