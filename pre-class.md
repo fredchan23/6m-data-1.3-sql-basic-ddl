@@ -74,7 +74,7 @@ You don't need to memorize these yet, but try to understand what they do:
 Please complete these steps before the live session:
 
 1. **Install DbGate:** Download and install the version for your operating system from [dbgate.org](https://dbgate.org/).  
-2. **Download the Database File:** Ensure you have the file db/unit-1-3.db saved on your machine (provided in the course portal).  
+2. **Download the Database File:** Ensure you have unit-1-3.db file saved on your machine (the file is in https://github.com/su-ntu-ctp/6m-data-1.3-sql-basic-ddl/blob/main/db/).  
 3. **Watch (Optional/5 mins):** Search YouTube for "What is a Primary Key vs Foreign Key" to get a head start on Section 2 of our lesson.
 
 ## **5\. Check Your Understanding**
