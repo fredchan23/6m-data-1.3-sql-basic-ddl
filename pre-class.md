@@ -36,7 +36,7 @@ Watch this - 🎬 [SQL DDL - The Blueprint for Data](https://youtu.be/adACCuMFja
 
 </details>
 
-[DbGate](https://dbgate.org/)
+[DbGate](https://www.dbgate.io/download-community/)
 <details>
   <summary>Introduction to DbGate: A cross-platform database manager.</summary>
   
